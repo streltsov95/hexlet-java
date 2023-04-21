@@ -1,0 +1,2 @@
+# Ignore .class in all project hexlet-java
+/**/*.class
